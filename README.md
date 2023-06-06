@@ -47,7 +47,7 @@
     <a href="https://portfolio-de-aagam.netlify.app/">
     <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype Badge"/>
     </a>
-    <a href="discordapp.com/users/alireza107di#8353">
+    <a href="https://discordapp.com/users/alireza107di#8353">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
   
