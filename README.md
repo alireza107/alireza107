@@ -3,3 +3,6 @@
 ![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alireza107&show_icons=true&theme=transparent)
 
 ![](https://komarev.com/ghpvc/?username=alireza107)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alireza107)](https://git.io/streak-stats)
+
