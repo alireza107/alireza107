@@ -38,13 +38,13 @@
 ### 🔗 Social info
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/alireza-dizaji/">
+    <a href="https://www.linkedin.com/in/alireza-dizaji-a776b514b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=alireza.dizaji98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://portfolio-de-aagam.netlify.app/">
+    <a href="https://join.skype.com/invite/f0OzNiFmJOIz">
     <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype Badge"/>
     </a>
     <a href="https://discordapp.com/users/alireza107di#8353">
