@@ -6,14 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=I'm+a+frontend+developer+,+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza107&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alireza107&show_icons=true&theme=transparent)
-
 ![](https://komarev.com/ghpvc/?username=alireza107)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alireza107&theme=dark)](https://git.io/streak-stats)
-
 
 ---
 ### 👦 About Me
@@ -37,4 +30,28 @@
 
 --- 
 
+### 🐍 Contribution snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://portfolio-de-aagam.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+</div>
+
+---
